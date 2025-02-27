@@ -1,0 +1,11 @@
+theme: jekyll-theme
+title: root:~#
+description: Hacking....
+show_downloads: false
+show_repo: false
+
+gems:
+- jekyll-sitemap
+
+whitelist:
+- jekyll-sitemap
