@@ -28,7 +28,7 @@ kramdown:
 
 email: akin10400@gmail.com
 
-baseurl: "./" # the subpath of your site, e.g. /blog
+baseurl: "./posts" 
 url: "http://command_not_found.github.io/" # the base hostname & protocol for your site
 
 
