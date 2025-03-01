@@ -1,11 +1,37 @@
+
+```yml
+
 theme: jekyll-theme
 title: root:~#
-description: Hacking....
+description: profilio & blog Hacking....
 show_downloads: false
 show_repo: false
-
+source:./
 gems:
 - jekyll-sitemap
 
 whitelist:
 - jekyll-sitemap
+
+lsi: false
+safe: true
+
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+
+
+email: akin10400@gmail.com
+
+baseurl: "./" # the subpath of your site, e.g. /blog
+url: "http://command_not_found.github.io/" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
+```  
